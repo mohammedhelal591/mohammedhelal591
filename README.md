@@ -1,6 +1,8 @@
 <div style="display: flex; align-items: center; justify-content: center;">
 <img  align="center" src="https://img.freepik.com/free-vector/blue-futuristic-networking-technology_53876-97395.jpg?w=900&t=st=1659008355~exp=1659008955~hmac=bbf7fac36eff5ab0efa7cd79697b9efd06353e03f4b0db4d7b8725a374721ebd">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&duration=2000&color=3C2543&background=839C8E00&vCenter=true&multiline=true&height=100&lines=I+am+a+Frontend+developer;Keen+to+gain+more+experience;To+develop+my+skills+and+achieve+more+success)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Mohammed Helal</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
