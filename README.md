@@ -9,16 +9,19 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedhelal591" alt="mohammedhelal591" /></a> </p>
 
+<p align="center">- Working in FERP ERP system as the frontend developer who's responsible for developing, maintaining and enhancing the code quality</p>
 
-<p align="center">- Here is my recent Angular 14 project for Dental centrr (http://noble-smile.demoyoursite.net/en/home)</p>
-<p align="center">- Here is my SPA using vanilla JS [JS-Movies-APP](https://mohammedhelal591.github.io/tmdb.github.io/)</p>
+<p align="center">- </p>
 <p align="center">- Here is my SPA using Angular [Angular-Movies-APP](https://mohammedhelal591.github.io/my-movies-app/)</p>
-<p align="center">- Here is my construction project [HTML-CSS-JS](https://demoyoursite.net/helal/seventh-station/)</p>
-<p align="center">- Here is my construction project [HTML-CSS-JS](https://demoyoursite.net/helal/alnajah/)</p>
-<p align="center">- Here is my hotel booking system [HTML-CSS-JS](https://hotel-booking-system.dev.tecsee.de/)</p>
-<p align="center">- Here is my t-shirt selling app [HTML-CSS-JS](https://dark-t-shirt-master.dev.tecsee.de/tshirts)</p>
-<p align="center">- Here is my lock selling app [HTML-CSS-JS](https://dark-master.dev.tecsee.de/lock)</p>
-<p align="center">- Here is my pet supplements app [HTML-CSS-JS](https://pets.dev.tecsee.de/Start)</p>
+<p align="center">- SPA using vanilla JS [JS-Movies-APP](https://mohammedhelal591.github.io/tmdb.github.io/)</p>
+<p align="center">- Angular 14 project for Dental center</p>
+<p align="center">- Construction project for Seventh-Station construction company in KSA</p>
+<p align="center">- Construction project for Al Najah construction company in KSA</p>
+<p align="center">- Hotel booking system in JTL CMS for TecSee software company in Germany</p>
+<p align="center">- T-shirt selling app in JTL CMS for TecSee software company in Germany</p>
+<p align="center">- Locks selling app in JTL CMS for TecSee software company in Germany</p>
+<p align="center">- Pets supplements app in JTL CMS for TecSee software company in Germany</p>
+
 
 <p align="center">- 📫 How to reach me **mohammedhelal591@gmail.com**</p>
 
